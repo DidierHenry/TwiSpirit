@@ -1,5 +1,5 @@
 # TwiSpirit
-TwiSpirit is based on AnalyzeWords, an online tool which helps to reveal Twitter users personality by looking at how they use words.
+TwiSpirit is based on AnalyzeWords (http://analyzewords.com/) an online tool which helps to reveal Twitter users personality by looking at how they use words.
 
 The user personality is described according to 3 styles: the emotional style, the social style and the thinking style.
 
