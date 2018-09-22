@@ -44,4 +44,4 @@ Return a score for each attribute in the range [0,100]:
 
 ----------------------------------------------
 
-Developed by Didier Henry PhD student at the University of French West Indies
+Developed by Didier Henry PhD student at the University of French West Indies (Guadeloupe)
